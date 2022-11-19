@@ -1,0 +1,14 @@
+.heading{
+    text-align: center;
+    margin: 0 10px 0 30px;
+}
+
+
+.fullname {
+    width: 50%;
+}
+
+#form{
+    margin-bottom: 10px;
+    background-color: rgb(244, 239, 234);
+}
